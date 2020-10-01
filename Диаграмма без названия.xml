@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-10-01T00:37:02.012Z" agent="5.0 (Windows)" version="13.7.7" etag="uyLl5jswmW_1wHcRuEnj" type="github"><diagram id="xfnrBLwHLD9NLwschrVC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-01T00:43:29.700Z" agent="5.0 (Windows)" etag="6h7pmr5qxSQDLdsAuYZI" version="13.7.7" type="github">
+  <diagram id="xfnrBLwHLD9NLwschrVC" name="Страница 1">
+    <mxGraphModel dx="1022" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mmgAoxoVklvcZ_d5jYUP-26" value="131/2222" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#343A40;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="40" y="70" width="140" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
